@@ -10,7 +10,7 @@ This Bank Loan project showcases key metrics for loan amount, interest rate, ins
 The data used for this analysis is the ".csv" excel file. It includes two different datasets, where each dataset holds 39k+ records.
 
 ### Tools
-Power BI
+- Power BI
 
 ### Below are the key point indicators in order to analyze the bank loan data and generate insights out of it:
 
