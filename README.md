@@ -21,7 +21,7 @@ The data used for this analysis is the ".csv" excel file. It includes two differ
 5. Monthwise Loan Status
 6. Grade and Sub-Gradewise Revolving Balance
 
-7. ### Results/ Findings:
+### Results/ Findings:
 
 1. There is a rise in profit year by year.
 2. "California" state is having highest number of accounts in each type of loan status and "Virginia" state is having lowest number of accounts.
