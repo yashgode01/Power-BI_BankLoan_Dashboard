@@ -2,15 +2,15 @@
 
 ## Table Of Contents
 
-### Project Overview
+### Project Overview:
 PhonePe is a mobile payment platform using which you can transfer money using UPI, recharge phone numbers, pay utility bills, etc. PhonePe works on the Unified Payment Interface (UPI) system and all you need is to feed in your bank account details and create a UPI ID
 
 This Bank Loan project showcases key metrics for loan amount, interest rate, installment, loan status etc. I begin this process with understanding of the data followed by Key point indicator creation, performing ETL process using power query, data modelling and embed them within a narrative using infographics.
 
-### Data Sources
+### Data Sources:
 The data used for this analysis is the ".csv" excel file. It includes two different datasets, where each dataset holds 39k+ records.
 
-### Tools
+### Tools:
 - Power BI
 
 ### Below are the key point indicators in order to analyze the bank loan data and generate insights out of it:
